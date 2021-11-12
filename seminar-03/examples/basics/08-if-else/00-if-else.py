@@ -3,7 +3,7 @@
 age = int(input("Enter your age: "))  # Удобно использовать int(input()), если вы запрашиваете число
 
 country = 'Russia'
-#country = 'USA'
+# country = 'USA'
 
 if age >= 16 and country == 'USA':  # Если вам есть 16 и вы живете в США
     answer = 'Yes, you can drive'

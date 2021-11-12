@@ -1,5 +1,12 @@
 # a if condition else b
 
+# if <cond>:
+#     <var> = <val1>
+# else:
+#     <var> = <val2>
+
+# <var> = <val1> if <cond> else <val2>
+
 print('true' if True else 'false')
 print('true' if False else 'false')
 

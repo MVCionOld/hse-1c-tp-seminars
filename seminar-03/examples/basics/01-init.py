@@ -1,0 +1,10 @@
+value = 2
+print(value)  # 2
+value += 1
+print(value)  # 3
+value *= 2
+print(value)  # 6
+value //= 3
+print(value)  # 2
+value **= 3
+print(value)  # 8

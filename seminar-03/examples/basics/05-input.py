@@ -1,4 +1,4 @@
 a = int(input())
 b = int(input())
 s = 'abcde'
-print(s[a:b])
+print(s[a:b:-1])
