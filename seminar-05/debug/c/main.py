@@ -42,7 +42,7 @@ def check5(s):
 
 
 if __name__ == "__main__":
-    s = "yvjbaobulion123o"
+    s = ...
     if not check1(s):
         print("NO")
         exit(1)
